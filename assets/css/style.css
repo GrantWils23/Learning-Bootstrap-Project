@@ -37,7 +37,7 @@ body {
 
 .callout-container {
     height: 100vh;
-    
+
     background: url(../images/whiskey-background.jpg) no-repeat bottom right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -57,7 +57,7 @@ body {
     left: 0;
     height: 100%;
     width: 100%;
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 /* .quotes-container {
@@ -128,7 +128,7 @@ body {
     margin-bottom: 0;
     border: 0;
     width: 100%;
-    background-color: rgba(0,0,0,0.25)
+    background-color: rgba(0, 0, 0, 0.25)
 }
 
 .navbar .navbar-toggler {
@@ -207,4 +207,15 @@ body {
     font-weight: bold;
     margin-top: 10px;
     color: #f05f40;
+}
+
+/* #mc_embed_signup {
+    background: #fff;
+    clear: left;
+    font: 14px Helvetica, Arial, sans-serif;
+    width: 600px;
+} */
+
+#mc_embed_signup form {
+    padding: 0;
 }
